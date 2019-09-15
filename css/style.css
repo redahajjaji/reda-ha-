@@ -1,0 +1,30 @@
+body {
+  background-color: #2d4059;
+  color: white;
+  margin: 0;
+  text-align: center;
+}
+h1 {
+  margin-block-start: 0;
+}
+div.top-container {
+  background-color: #222831;
+}
+div.middle-container {
+  background-color: red;
+  height: 200px;
+  width: 200px;
+}
+div.bottom-container {
+  background-color: blue;
+  height: 200px;
+  width: 200px;
+}
+.bottom-cloud {
+  position: absolute;
+}
+.top-cloud {
+  position: relative;
+  left: 290px;
+  top: 40px;
+}
